@@ -3,7 +3,7 @@
   "title": "🏃 Getting Started",
   "steps": [
     {
-      "description": "### 📌 Intro\n\nHey 👋 Welcome to CodeTour!\n\nCongratulations! Since you are seeing this message, Github Codespaces and Codetour are reachable from your computer.\n\nYou may exit this window, and from the Code button in the repository where you launched this delete this codespace."
+      "description": "### 📌 Intro\n\nHey 👋 Welcome to CodeTour!\n\nCongratulations! Since you are seeing this message, Github Codespaces and Codetour are reachable from your computer.\n\nYou may exit this window, refresh the repository window, click the \"Code\" button where you launched this codespace, and use the delete option to remove this codespace."
     }
   ],
   "description": "Getting Started"

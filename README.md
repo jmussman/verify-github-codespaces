@@ -16,7 +16,9 @@ This example uses Codetour, which is a Visual Studio Code extension that takes t
 ## Configuration
 
 1. Sign-on to GitHub using your personal account.
-1. In this project click the "Code" button.
+1. On the main page of the respository for this project click the green "Code" button at the upper right.
+1. Select the "Codespaces"  tab, and click the green "Create codespace on main" button.
+This will launch a new tab in your browser, wait for it to competely load.
 1. If the Codetour and landing page opens in the started codespace without an error, Github Codespaces is accessible.
 If you see an error, e.g. the codespace disconnected, then GitHub Codespaces is not accessible from your environment.
 
