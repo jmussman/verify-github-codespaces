@@ -22,6 +22,18 @@ This will launch a new tab in your browser, wait for it to competely load.
 1. If the Codetour and landing page opens in the started codespace without an error, Github Codespaces is accessible.
 If you see an error, e.g. the codespace disconnected, then GitHub Codespaces is not accessible from your environment.
 
+## Verification and Teardown
+
+If you are looking at this README.md file in a codespace, everything is OK.
+You can tell you are in a codespace if the browser address bar contains a funky name like "orange-waffle-xxxxxxxx" (just an example).
+A codetour should have opened with instructions, but since it may not have follow these:
+
+* Exit this window after reading all of these instructions.
+You will lose them when you close this window, but you must close this window before proceeding.
+* Refresh the repository window.
+* Click the \"Code\" button and select the \"Codespace\" tab.
+* Use the delete option to remove this codespace.
+
 ## License
 
 The code is licensed under the MIT license. You may use and modify all or part of it as you choose, as long as attribution to the source is provided per the license. See the details in the [license file](./LICENSE.md) or at the [Open Source Initiative](https://opensource.org/licenses/MIT).
