@@ -5,7 +5,7 @@
   "isPrimary": true,
   "steps": [
     {
-      "description": "![Banner](https://raw.githubusercontent.com/jmussman/cdn-fun/main/banners/banner-private-stock.png)\n\n### 📌 Intro\n\nHey 👋 Welcome to CodeTour!\n\nCongratulations! Since you are seeing this message, Github Codespaces and Codetour are reachable from your computer.\n\nFollow these steps:\n* In the other browser tab refresh the repository window.\n* Click the \"Code\" button and select the \"Codespace\" tab.\n* Use the delete option to remove this codespace.\n* Close this codespace window.\n"
+      "description": "![Banner](https://raw.githubusercontent.com/jmussman/cdn-fun/main/banners/banner-private-stock.png)\n\n### Hey 👋 Welcome to Codespaces, and CodeTour!\n\nCongratulations! Since you are seeing this message, both Github Codespaces and Codetour are reachable from your computer.\n\nFollow these steps to shut down the test:\n* In the other browser tab refresh the repository window.\n* Click the \"Code\" button and select the \"Codespace\" tab.\n* Use the delete option to remove this codespace.\n* Close this codespace window.\n"
     }
   ]
 }
