@@ -1,0 +1,19 @@
+{
+    "name": "Verify Codespace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vsls-contrib.codetour"
+              ]
+        }
+    },
+    "forwardPorts": [
+        3000
+    ],
+    "portsAttributes": {
+        "3000": {
+            "label": "port-forward-test"
+        }
+    },
+    "postAttachCommand": "gh codespace ports visibility 3000:public -c $CODESPACE_NAME"
+}
