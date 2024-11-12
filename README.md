@@ -2,8 +2,8 @@
 [//]: # (Copyright © 2024 Joel A Mussman. All rights reserved.)
 [//]: #
 
-![Banner Light](https://jmussman.github.io/banners/banner-verify-github-codespaces-light.png#gh-light-mode-only)
-![banner Dark](https://jmussman.github.io/banners//banner-verify-github-codespaces-dark.png#gh-dark-mode-only)
+![Banner Light](https://jmussman.github.io/cdn-fun/banners/banner-verify-github-codespaces-light.png#gh-light-mode-only)
+![banner Dark](https://jmussman.github.io/cdn-fun/banners//banner-verify-github-codespaces-dark.png#gh-dark-mode-only)
 
 # Verify GitHub Codepaces is accessible from your computer
 
