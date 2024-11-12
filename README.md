@@ -28,11 +28,10 @@ If you are looking at this README.md file in a codespace, everything is OK.
 You can tell you are in a codespace if the browser address bar contains a funky name like "orange-waffle-xxxxxxxx" (just an example).
 A codetour should have opened with instructions, but since it may not have follow these:
 
-* Exit this window after reading all of these instructions.
-You will lose them when you close this window, but you must close this window before proceeding.
-* Refresh the repository window.
+* In the other browser tab refresh the repository window.
 * Click the \"Code\" button and select the \"Codespace\" tab.
 * Use the delete option to remove this codespace.
+* Close this codespace window.
 
 ## License
 
