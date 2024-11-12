@@ -3,5 +3,10 @@
     "editor.minimap.enabled": false,
     "editor.formatOnSave": false,
     "codetour.promptForWorkspaceTours": false,
-    "codetour.showMarkers": false
+    "codetour.showMarkers": false,
+    "auto-run-command.rules": [
+        {
+            "command": "codetour.startTour"
+        }
+    ]
 }

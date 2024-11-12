@@ -3,7 +3,9 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "vsls-contrib.codetour"
+                "ryuta46.multi-command",
+                "vsls-contrib.codetour",
+                "gabrielgrinberg.auto-run-command"
               ]
         }
     },
